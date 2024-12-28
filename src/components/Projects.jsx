@@ -9,7 +9,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=600",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/Roopesh-Rajan/Nike_Clone.git",
-      live: "https://nikeclone-frontenddeploy-2xiokjqi4-roopesh-rajans-projects.vercel.app/"
+      live: "https://nikeclone-frontenddeploy-git-master-roopesh-rajans-projects.vercel.app/"
     },
     {
       title: "Task Management App",
