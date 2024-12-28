@@ -26,7 +26,7 @@ const Projects = () => {
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/Roopesh-Rajan/blog-backend.git",
       github: "https://github.com/Roopesh-Rajan/blog-frontend.git",
-      live: "https://blogdeployfrontend-asvqxw6l6-roopesh-rajans-projects.vercel.app/"
+      live: "https://blogdeployfrontend-git-master-roopesh-rajans-projects.vercel.app"
     }
   ];
 
